@@ -1,18 +1,20 @@
-<h1 align="center">Hi 👋, I'm Alana</h1>
-<h3 align="center">I am a mechanical engineering student at UFPE and a software engineering intern at IBM</h3>
+### Hi 👋, I'm Alana
+I am a mechanical engineering student at UFPE and a software engineering intern at IBM.
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/alanaafsc)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://linkedin.com/in/alana-ingrid-fernandes)
 
 
 - 📫 How to reach me **alanaingridff@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alana-ingrid-fernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alana-ingrid-fernandes" height="30" width="40" /></a>
-</p>
+
+
+          
 
 
 <div>
 <a href="https://github.com/alanaafsc">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanaafsc&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanaafsc&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
 

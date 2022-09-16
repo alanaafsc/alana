@@ -14,7 +14,7 @@ I am a mechanical engineering student at UFPE and a software engineering intern 
 
 <div>
 <a href="https://github.com/alanaafsc">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanaafsc&layout=compact&langs_count=7&theme=dracula" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanaafsc&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
 
